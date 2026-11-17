@@ -22,3 +22,16 @@ This repository contains the anonymized study artifacts accompanying our submiss
 
 3. **[`Codebook.pdf`](Codebook.pdf)** — **Hierarchical Qualitative Codebook & Representative Quotes**
    - Contains all **6 primary thematic categories** and **37 secondary codes** developed during our hybrid inductive–deductive thematic analysis (178 coded segments across $N = 15$ transcripts), complete with operational code definitions and anonymized verbatim example quotes attributed to `P1`–`P15`.
+
+---
+
+## Figure 1(a) Literature Synthesis Note
+
+To contextualize practitioner threat priorities in Figure 1(a) (*Academic Literature Focus*), we aggregated the attack-taxonomy tables across five autonomous-driving security surveys and Systematizations of Knowledge (SoKs):
+- Ren et al., *"The Security of Autonomous Driving: Threats, Defenses, and Future Directions,"* *Proceedings of the IEEE*, 2020.
+- Qayyum et al., *"Securing Connected & Autonomous Vehicles: Challenges Posed by Adversarial Machine Learning and the Way Forward,"* *IEEE COMST*, 2020.
+- Deng et al., *"Deep Learning-Based Autonomous Driving Systems: A Survey of Attacks and Defenses,"* *IEEE TII*, 2021.
+- Kühr et al., *"SoK: Security of the Image Processing Pipeline in Autonomous Vehicles,"* *ACM/IEEE DAC*, 2023.
+- Girdhar et al., *"Cybersecurity of Autonomous Vehicles: A Systematic Literature Review of Adversarial Attacks and Defense Models,"* *IEEE OJVT*, 2023.
+
+Each surveyed attack paper was mapped to one or more of the 11 attack surfaces in Figure 1. Because papers addressing multiple surfaces (e.g., camera + LiDAR fusion or sensor spoofing + adversarial patches) were counted in each applicable surface row, the percentages in Figure 1(a) represent non-exclusive shares of the surveyed corpus rather than mutually exclusive categories summing to 100%.
